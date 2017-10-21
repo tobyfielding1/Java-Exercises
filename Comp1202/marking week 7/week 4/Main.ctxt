@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=question
+comment0.target=java.lang.Integer\ askInt(java.lang.String)
+comment0.text=\r\n\ Method\ askInt\r\n\r\n\ @param\ question\ (the\ user\ prompt)\r\n\ @return\ a\ number\ (Integer)\ input\ by\ the\ user\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
